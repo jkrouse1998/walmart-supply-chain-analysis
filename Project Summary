@@ -1,0 +1,23 @@
+# Project: Walmart Supply-Chain Analytics
+
+## Problem Statement
+Learning fundamental supply-chain concepts through hands-on data analysis.
+
+## Solution
+Built a command-line tool that:
+1. Loads and cleans real Walmart sales data
+2. Aggregates metrics by store location
+3. Measures holiday demand impact
+4. Forecasts future demand using moving averages
+5. Calculates safety stock for inventory planning
+
+## Key Results
+- Identified top-performing stores by total sales
+- Quantified average holiday sales lift
+- Generated reorder points for inventory optimization
+
+## Skills Demonstrated
+- Python (pandas, argparse, pathlib)
+- Data analysis and aggregation
+- Supply-chain fundamentals
+- CLI tool development
